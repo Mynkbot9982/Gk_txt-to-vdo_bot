@@ -1,5 +1,4 @@
 <p align="center">
-   alt="GK-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
   GK TXT LEECH BOT
