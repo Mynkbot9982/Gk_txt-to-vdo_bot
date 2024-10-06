@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="GK-TXT-LEECH-BOT Logo">
+   alt="GK-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
   GK TXT LEECH BOT
